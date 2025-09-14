@@ -27,14 +27,14 @@ A comprehensive, role-based healthcare management system built with PHP and MySQ
 
 ## 📁 Project Structure
 medicare-system
-├── config.php              # Database configuration and session management
-├── index.php               # Login page with authentication
-├── register.php            # User registration system
-├── dashboard.php           # Role-based routing
-├── patient.php             # Patient dashboard
-├── doctor.php              # Doctor dashboard
-├── admin.php               # Administrator dashboard
-├── about.php               # About us page
+├── config.php              # Database configuration and session management<br>
+├── index.php               # Login page with authentication<br>
+├── register.php            # User registration system<br>
+├── dashboard.php           # Role-based routing<br>
+├── patient.php             # Patient dashboard<br>
+├── doctor.php              # Doctor dashboard<br>
+├── admin.php               # Administrator dashboard<br>
+├── about.php               # About us page<br>
 ├── contact.php             # Contact information
 ├── init_db.php             # Database initialization
 ├── logout.php              # Session termination
