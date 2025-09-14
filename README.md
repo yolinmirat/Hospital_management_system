@@ -35,13 +35,13 @@ medicare-system
 ├── doctor.php              # Doctor dashboard<br>
 ├── admin.php               # Administrator dashboard<br>
 ├── about.php               # About us page<br>
-├── contact.php             # Contact information
-├── init_db.php             # Database initialization
-├── logout.php              # Session termination
-├── header.php              # Consistent header
-├── footer.php              # Consistent footer
-├── style.css               # Comprehensive styling
-└── README.md               # This file
+├── contact.php             # Contact information<br>
+├── init_db.php             # Database initialization<br>
+├── logout.php              # Session termination<br>
+├── header.php              # Consistent header<br>
+├── footer.php              # Consistent footer<br>
+├── style.css               # Comprehensive styling<br>
+└── README.md               # This file<br>
 
 ## 🚀 Installation & Setup
 
