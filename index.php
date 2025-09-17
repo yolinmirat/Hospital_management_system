@@ -1,10 +1,10 @@
-// index.php
 <?php
 require_once 'config.php';
 
 // Redirect if already logged in
+// Redirect if already logged in
 if (isset($_SESSION['user_id'])) {
-    header("Location: dashboard.php");
+    header("Location: home.php");
     exit();
 }
 
